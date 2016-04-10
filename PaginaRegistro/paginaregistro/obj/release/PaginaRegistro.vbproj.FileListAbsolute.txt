@@ -1,0 +1,84 @@
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 3\Proyectos Visual Studio\PaginaRegistro3\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.dll
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 3\Proyectos Visual Studio\PaginaRegistro3\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.pdb
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 3\Proyectos Visual Studio\PaginaRegistro3\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.xml
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 3\Proyectos Visual Studio\PaginaRegistro3\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.dll
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 3\Proyectos Visual Studio\PaginaRegistro3\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.pdb
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 3\Proyectos Visual Studio\PaginaRegistro3\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.xml
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 3\Proyectos Visual Studio\PaginaRegistro3\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.vbprojResolveAssemblyReference.cache
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 3\Proyectos Visual Studio\PaginaRegistro3\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.Resources.resources
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 3\Proyectos Visual Studio\PaginaRegistro3\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.vbproj.GenerateResource.Cache
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 3\Proyectos Visual Studio\PaginaRegistro3\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.dll
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 3\Proyectos Visual Studio\PaginaRegistro3\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.xml
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 3\Proyectos Visual Studio\PaginaRegistro3\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.pdb
+C:\Users\ehu\Downloads\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.dll
+C:\Users\ehu\Downloads\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.pdb
+C:\Users\ehu\Downloads\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.xml
+C:\Users\ehu\Downloads\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.dll
+C:\Users\ehu\Downloads\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.pdb
+C:\Users\ehu\Downloads\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.xml
+C:\Users\ehu\Downloads\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.vbprojResolveAssemblyReference.cache
+C:\Users\ehu\Downloads\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.Resources.resources
+C:\Users\ehu\Downloads\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.vbproj.GenerateResource.Cache
+C:\Users\ehu\Downloads\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.dll
+C:\Users\ehu\Downloads\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.xml
+C:\Users\ehu\Downloads\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.pdb
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.dll
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.pdb
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.xml
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.dll
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.pdb
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.xml
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.vbprojResolveAssemblyReference.cache
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.Resources.resources
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.vbproj.GenerateResource.Cache
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.dll
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.xml
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.pdb
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\Proyectos Visual Studio\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.dll
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\Proyectos Visual Studio\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.pdb
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\Proyectos Visual Studio\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.xml
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\Proyectos Visual Studio\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.dll
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\Proyectos Visual Studio\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.pdb
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\Proyectos Visual Studio\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.xml
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\Proyectos Visual Studio\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.vbprojResolveAssemblyReference.cache
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\Proyectos Visual Studio\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.Resources.resources
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\Proyectos Visual Studio\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.vbproj.GenerateResource.Cache
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\Proyectos Visual Studio\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.dll
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\Proyectos Visual Studio\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.xml
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\Proyectos Visual Studio\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.pdb
+C:\Users\Kevin\Desktop\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.vbprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.Resources.resources
+C:\Users\Kevin\Desktop\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.vbproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.dll
+C:\Users\Kevin\Desktop\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.xml
+C:\Users\Kevin\Desktop\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.pdb
+C:\Users\Kevin\Desktop\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.dll
+C:\Users\Kevin\Desktop\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.pdb
+C:\Users\Kevin\Desktop\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.xml
+C:\Users\Kevin\Desktop\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.dll
+C:\Users\Kevin\Desktop\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.pdb
+C:\Users\Kevin\Desktop\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.xml
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.vbprojResolveAssemblyReference.cache
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.Resources.resources
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.vbproj.GenerateResource.Cache
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.dll
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.xml
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.pdb
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.dll
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.pdb
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.xml
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.dll
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.pdb
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.xml
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visual Studio\HADS-LAB5\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.dll
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visual Studio\HADS-LAB5\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.pdb
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visual Studio\HADS-LAB5\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.xml
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visual Studio\HADS-LAB5\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.dll
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visual Studio\HADS-LAB5\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.pdb
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visual Studio\HADS-LAB5\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.xml
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visual Studio\HADS-LAB5\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.vbprojResolveAssemblyReference.cache
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visual Studio\HADS-LAB5\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.Resources.resources
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visual Studio\HADS-LAB5\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.vbproj.GenerateResource.Cache
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visual Studio\HADS-LAB5\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.dll
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visual Studio\HADS-LAB5\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.xml
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visual Studio\HADS-LAB5\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\PaginaRegistro\PaginaRegistro\obj\Debug\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\PaginaRegistro\PaginaRegistro\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\PaginaRegistro\PaginaRegistro\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

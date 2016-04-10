@@ -1,0 +1,56 @@
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 3\Proyectos Visual Studio\PaginaRegistro3\PaginaRegistro\RegistroLibrary\bin\Release\RegistroLibrary.dll
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 3\Proyectos Visual Studio\PaginaRegistro3\PaginaRegistro\RegistroLibrary\bin\Release\RegistroLibrary.pdb
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 3\Proyectos Visual Studio\PaginaRegistro3\PaginaRegistro\RegistroLibrary\bin\Release\RegistroLibrary.xml
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 3\Proyectos Visual Studio\PaginaRegistro3\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.Resources.resources
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 3\Proyectos Visual Studio\PaginaRegistro3\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.vbproj.GenerateResource.Cache
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 3\Proyectos Visual Studio\PaginaRegistro3\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.dll
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 3\Proyectos Visual Studio\PaginaRegistro3\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.xml
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 3\Proyectos Visual Studio\PaginaRegistro3\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.pdb
+C:\Users\ehu\Downloads\PaginaRegistro\RegistroLibrary\bin\Release\RegistroLibrary.dll
+C:\Users\ehu\Downloads\PaginaRegistro\RegistroLibrary\bin\Release\RegistroLibrary.pdb
+C:\Users\ehu\Downloads\PaginaRegistro\RegistroLibrary\bin\Release\RegistroLibrary.xml
+C:\Users\ehu\Downloads\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.Resources.resources
+C:\Users\ehu\Downloads\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.vbproj.GenerateResource.Cache
+C:\Users\ehu\Downloads\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.dll
+C:\Users\ehu\Downloads\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.xml
+C:\Users\ehu\Downloads\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.pdb
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\PaginaRegistro\RegistroLibrary\bin\Release\RegistroLibrary.dll
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\PaginaRegistro\RegistroLibrary\bin\Release\RegistroLibrary.pdb
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\PaginaRegistro\RegistroLibrary\bin\Release\RegistroLibrary.xml
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.Resources.resources
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.vbproj.GenerateResource.Cache
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.dll
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.xml
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.pdb
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\Proyectos Visual Studio\PaginaRegistro\RegistroLibrary\bin\Release\RegistroLibrary.dll
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\Proyectos Visual Studio\PaginaRegistro\RegistroLibrary\bin\Release\RegistroLibrary.pdb
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\Proyectos Visual Studio\PaginaRegistro\RegistroLibrary\bin\Release\RegistroLibrary.xml
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\Proyectos Visual Studio\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.Resources.resources
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\Proyectos Visual Studio\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.vbproj.GenerateResource.Cache
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\Proyectos Visual Studio\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.dll
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\Proyectos Visual Studio\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.xml
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 4\Proyectos Visual Studio\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.pdb
+C:\Users\Kevin\Desktop\PaginaRegistro\RegistroLibrary\bin\Release\RegistroLibrary.dll
+C:\Users\Kevin\Desktop\PaginaRegistro\RegistroLibrary\bin\Release\RegistroLibrary.pdb
+C:\Users\Kevin\Desktop\PaginaRegistro\RegistroLibrary\bin\Release\RegistroLibrary.xml
+C:\Users\Kevin\Desktop\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.Resources.resources
+C:\Users\Kevin\Desktop\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.vbproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.dll
+C:\Users\Kevin\Desktop\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.xml
+C:\Users\Kevin\Desktop\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.pdb
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\RegistroLibrary\bin\Release\RegistroLibrary.dll
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\RegistroLibrary\bin\Release\RegistroLibrary.pdb
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\RegistroLibrary\bin\Release\RegistroLibrary.xml
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.Resources.resources
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.vbproj.GenerateResource.Cache
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.dll
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.xml
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.pdb
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visual Studio\HADS-LAB5\PaginaRegistro\RegistroLibrary\bin\Release\RegistroLibrary.dll
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visual Studio\HADS-LAB5\PaginaRegistro\RegistroLibrary\bin\Release\RegistroLibrary.pdb
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visual Studio\HADS-LAB5\PaginaRegistro\RegistroLibrary\bin\Release\RegistroLibrary.xml
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visual Studio\HADS-LAB5\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.Resources.resources
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visual Studio\HADS-LAB5\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.vbproj.GenerateResource.Cache
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visual Studio\HADS-LAB5\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.dll
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visual Studio\HADS-LAB5\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.xml
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visual Studio\HADS-LAB5\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.pdb
