@@ -25,11 +25,14 @@
             If cambiosBD <> -7 Then
                 lblError.Visible = False
                 lblEnlace.Visible = True
-                lblEnlace.Text = "Se ha ingresado '" & cambiosBD & "' usuario/s en la BD."
+                lblEnlace.Text = "Se ha ingresado '" & cambiosBD & "' usuario/s en la BD. Se redireccionará en 4 segundos a la pagina inicial."
             End If
         End If
 
         libVb.Desconectar()
+
+        Response.AddHeader("REFRESH", "4;URL=Inicio.aspx")
+
 
     End Sub
 

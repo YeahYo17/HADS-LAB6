@@ -535,5 +535,4 @@ Public Class LibraryVB
 
     End Function
 
-
 End Class

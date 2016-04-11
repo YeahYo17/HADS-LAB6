@@ -1,4 +1,6 @@
-﻿Public Class TareasAlumno
+﻿Imports System.Web.Security.FormsAuthentication
+
+Public Class TareasAlumno
     Inherits System.Web.UI.Page
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load

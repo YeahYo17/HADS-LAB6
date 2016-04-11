@@ -22,7 +22,7 @@
             <br />
             <br />
             <strong>
-            <asp:HyperLink ID="hlTareasGen" runat="server" NavigateUrl="~/TareasAlumno.aspx" style="text-align: left; color: #FFFFFF;">Tareas Genericas</asp:HyperLink>
+            <asp:HyperLink ID="hlTareasGen" runat="server" NavigateUrl="~/Alumno/TareasAlumno.aspx" style="text-align: left; color: #FFFFFF;">Tareas Genericas</asp:HyperLink>
             <br />
             <br />
             <br />

@@ -61,7 +61,7 @@
             <SortedDescendingCellStyle BackColor="#E9EBEF" />
             <SortedDescendingHeaderStyle BackColor="#4870BE" />
         </asp:GridView>
-        <asp:HyperLink ID="hlMenu" runat="server" NavigateUrl="~/Alumno.aspx" style="z-index: 1; left: 283px; top: 272px; position: absolute">Menu Principal</asp:HyperLink>
+        <asp:HyperLink ID="hlMenu" runat="server" NavigateUrl="~/Alumno/Alumno.aspx" style="z-index: 1; left: 283px; top: 272px; position: absolute">Menu Principal</asp:HyperLink>
         <br />
     
         <asp:CheckBoxList ID="CheckBoxList1" runat="server" AutoPostBack="True" BorderColor="Silver" BorderWidth="1px" style="z-index: 1; left: 281px; top: 138px; position: absolute; height: 90px; width: 120px">

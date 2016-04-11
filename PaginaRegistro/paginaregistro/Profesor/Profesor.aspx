@@ -17,6 +17,7 @@
 </head>
 <body style="height: 500px">
     <form id="form1" runat="server">
+        <asp:HyperLink ID="hlMenuAlum" runat="server" NavigateUrl="~/Alumno/Alumno.aspx" style="z-index: 3; left: 533px; top: 378px; position: absolute; height: 20px; width: 100px">Menu Alumnos</asp:HyperLink>
         <br />
         <asp:Panel ID="Panel1" runat="server" Height="400px" style="text-align: center; background-color: #3366CC; z-index: 1; left: 21px; top: 34px; position: absolute; height: 400px; width: 178px;" Width="170px" BorderStyle="Inset">
             <strong style="position: relative">
@@ -26,7 +27,7 @@
             <br />
             <br />
             <br />
-            <asp:HyperLink ID="hlTareas" runat="server" NavigateUrl="~/TareasProfesor.aspx" style="text-align: left; color: #FFFFFF;">Tareas</asp:HyperLink>
+            <asp:HyperLink ID="hlTareas" runat="server" NavigateUrl="~/Profesor/TareasProfesor.aspx" style="text-align: left; color: #FFFFFF;">Tareas</asp:HyperLink>
             <br />
             <br />
             <br />
@@ -34,19 +35,19 @@
             <br />
             <br />
             <br />
-            <asp:HyperLink ID="hlImpXMLDoc" runat="server" NavigateUrl="~/InsertarTareaXMLDocument.aspx" style="text-align: left; color: #FFFFFF;">Importar y, XMLDocument</asp:HyperLink>
+            <asp:HyperLink ID="hlImpXMLDoc" runat="server" NavigateUrl="~/Profesor/InsertarTareaXMLDocument.aspx" style="text-align: left; color: #FFFFFF;">Importar y, XMLDocument</asp:HyperLink>
             <br />
             <br />
             <br />
-            <asp:HyperLink ID="hlExp" runat="server" NavigateUrl="~/Exportar.aspx" style="text-align: left; color: #FFFFFF;">Exportar</asp:HyperLink>
+            <asp:HyperLink ID="hlExp" runat="server" NavigateUrl="~/Profesor/Exportar.aspx" style="text-align: left; color: #FFFFFF;">Exportar</asp:HyperLink>
             <br />
             <br />
             <br />
-            <asp:HyperLink ID="hlImpDS" runat="server" NavigateUrl="~/InsertarTareaDataSet.aspx" style="text-align: left; color: #FFFFFF;">Importar y, DataSet</asp:HyperLink>
+            <asp:HyperLink ID="hlImpDS" runat="server" NavigateUrl="~/Profesor/InsertarTareaDataSet.aspx" style="text-align: left; color: #FFFFFF;">Importar y, DataSet</asp:HyperLink>
             </strong>
         </asp:Panel>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:Panel ID="Panel2" runat="server" BorderStyle="Inset" HorizontalAlign="Center" style="z-index: 1; left: 218px; top: 34px; position: absolute; height: 400px; width: 729px; text-align: center; margin-top: 0px; background-color: #99CCFF">
+        <asp:Panel ID="Panel2" runat="server" BorderStyle="Inset" HorizontalAlign="Center" style="z-index: -1; left: 218px; top: 34px; position: absolute; height: 400px; width: 729px; text-align: center; margin-top: 0px; background-color: #99CCFF">
             <strong><span class="auto-style1">
             <br style="z-index: 1; left: 364px; top: 0px; position: absolute" />
             <br />

@@ -1,4 +1,5 @@
 ﻿Imports System.Data.SqlClient
+Imports System.Web.Security.FormsAuthentication
 
 Public Class Inicio
 
@@ -11,6 +12,18 @@ Public Class Inicio
         Session("Conexion") = Conexion
         Session("dAdapter") = New SqlDataAdapter
         Session("email") = Nothing
+
+        ' --- Desconectarse ---
+        SignOut()
+
+        ' --- Borrar Cookie: GALLETASAUTH ---
+
+        'Dim aCookie As HttpCookie
+        'Dim cookieName As String = "GALLETASAUTH"
+        'aCookie = New HttpCookie(cookieName)
+        'aCookie.Expires = DateTime.Now.AddDays(-1)
+        'Response.Cookies.Add(aCookie)
+
     End Sub
 
     Protected Sub btnLogin_Click(sender As Object, e As EventArgs) Handles btnLogin.Click
@@ -27,10 +40,21 @@ Public Class Inicio
             Session("email") = txtEmailInc.Text
             'Response.Redirect("Principal.aspx")
 
+            If txtEmailInc.Text = "admin@ehu.es" Then
+                SetAuthCookie("admin@ehu.es", False)
+                Response.Redirect("Profesor/Profesor.aspx")
+            End If
+
             If libVb.isProfesor(Session("email").ToString, lblError.Text) = True Then
-                Response.Redirect("Profesor.aspx")
+                If txtEmailInc.Text = "vadillo@ehu.es" Then
+                    SetAuthCookie("vadillo@ehu.es", False)
+                Else
+                    SetAuthCookie("Profesor", False)
+                End If
+                Response.Redirect("Profesor/Profesor.aspx")
             Else
-                Response.Redirect("Alumno.aspx")
+                SetAuthCookie("Alumno", False)
+                Response.Redirect("Alumno/Alumno.aspx")
             End If
 
         End If

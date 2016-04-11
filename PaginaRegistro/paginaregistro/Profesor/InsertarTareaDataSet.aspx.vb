@@ -1,14 +1,13 @@
-﻿Imports System.Xml, System.Data.SqlClient
-Imports System.Xml.Xsl
+﻿Imports System.Data.SqlClient, System.Xml
 
-Public Class InsertarTareaXMLDocument
+Public Class InsertarTareaDataSet
     Inherits System.Web.UI.Page
 
     Private hadError As Boolean = False
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
 
-        Dim strXml As String = "App_Data/" & DropDownList1.SelectedValue & ".xml"
+        Dim strXml As String = "../App_Data/" & DropDownList1.SelectedValue & ".xml"
         Panel2.Visible = False
         Panel3.Visible = False
         hadError = False
@@ -37,7 +36,7 @@ Public Class InsertarTareaXMLDocument
         End If
 
         Xml1.DocumentSource = Server.MapPath(strXml)
-        Xml1.TransformSource = Server.MapPath("App_Data/XSLTFile.xsl")
+        Xml1.TransformSource = Server.MapPath("../App_Data/XSLTFile.xsl")
 
     End Sub
 
@@ -46,43 +45,68 @@ Public Class InsertarTareaXMLDocument
         Panel2.Visible = False
         Panel3.Visible = False
 
-        Dim strXml As String = "App_Data/" & DropDownList1.SelectedValue & ".xml"
-
-        Dim xmlDoc As New XmlDocument
-        Try
-            xmlDoc.Load(Server.MapPath(strXml))
-        Catch ex As IO.FileNotFoundException
-            lblError.Text = "ERROR: " & ex.Message
+        Dim strXml As String = "../App_Data/" & DropDownList1.SelectedValue & ".xml"
+        Dim readXml As XmlReader
+        If My.Computer.FileSystem.FileExists(Server.MapPath(strXml)) = True Then
+            readXml = XmlReader.Create(Server.MapPath(strXml))
+        Else
+            lblError.Text = "ERROR - File Not Found: " & DropDownList1.SelectedValue.ToString & ".xml"
             Panel2.Visible = True
             hadError = True
-        End Try
+            Exit Sub
+        End If
 
         Dim Conexion As SqlConnection
         Conexion = Session("Conexion")
-        Dim dTable As New DataTable("Tareas")
+        Dim dTable As New DataTable("TareasSQL")
         Dim dAdapter As SqlDataAdapter
         dAdapter = Session("dAdapter")
         dAdapter.SelectCommand = New SqlCommand("SELECT * FROM TareasGenericas", Conexion)
         Dim cmdBuild As New SqlCommandBuilder(dAdapter)
 
-        dAdapter.Fill(dTable)
-
         Dim dSet As New DataSet
+        dAdapter.Fill(dTable)
         dSet.Tables.Add(dTable)
 
         Dim dRow As DataRow = dTable.NewRow()
-        Dim tareas As XmlNodeList = xmlDoc.GetElementsByTagName("tarea")
-        Dim tarea As XmlNode
-        For Each tarea In tareas
-            dRow("Codigo") = tarea.ChildNodes(0).InnerText
-            dRow("Descripcion") = tarea.ChildNodes(1).InnerText
-            dRow("HEstimadas") = CInt(tarea.ChildNodes(2).InnerText)
-            dRow("CodAsig") = DropDownList1.SelectedValue
-            dRow("Explotacion") = CBool(tarea.ChildNodes(3).InnerText)
-            dRow("TipoTarea") = tarea.ChildNodes(4).InnerText
 
-            dTable.Rows.Add(dRow.ItemArray)
-        Next
+        dRow("CodAsig") = DropDownList1.SelectedValue.ToString
+
+        While readXml.Read()
+            Select Case readXml.Name
+                Case "codigo"
+                    If readXml.NodeType = XmlNodeType.Element Then
+                        readXml.Read()
+                        dRow("Codigo") = readXml.Value
+                    End If
+                Case "descripcion"
+                    If readXml.NodeType = XmlNodeType.Element Then
+                        readXml.Read()
+                        dRow("Descripcion") = readXml.Value
+                    End If
+                Case "hestimadas"
+                    If readXml.NodeType = XmlNodeType.Element Then
+                        readXml.Read()
+                        dRow("HEstimadas") = CInt(readXml.Value)
+                    End If
+                Case "explotacion"
+                    If readXml.NodeType = XmlNodeType.Element Then
+                        readXml.Read()
+                        dRow("Explotacion") = CBool(readXml.Value)
+                    End If
+                Case "tipotarea"
+                    If readXml.NodeType = XmlNodeType.Element Then
+                        readXml.Read()
+                        dRow("TipoTarea") = readXml.Value
+                        dTable.Rows.Add(dRow.ItemArray)
+                    End If
+                Case "tareas"
+                    If readXml.NodeType = XmlNodeType.EndElement Then
+                        Exit While
+                    End If
+            End Select
+        End While
+
 
         cmdBuild.GetInsertCommand()
 
@@ -103,27 +127,4 @@ Public Class InsertarTareaXMLDocument
 
     End Sub
 
-    Protected Sub RadioButtonList1_SelectedIndexChanged(sender As Object, e As EventArgs) Handles RadioButtonList1.SelectedIndexChanged
-
-        Dim strXml As String = "App_Data/" & DropDownList1.SelectedValue & ".xml"
-
-        'Dim xmlDoc As New System.Xml.XPath.XPathDocument(Server.MapPath(strXml))
-
-        ' Create the XslCompiledTransform and load the style sheet.
-        Dim xslt As XslCompiledTransform = New XslCompiledTransform()
-        xslt.Load(Server.MapPath("App_Data/XSLTFile.xsl"))
-
-        ' Create the XsltArgumentList.
-        Dim xsltArgList As XsltArgumentList = New XsltArgumentList()
-        xsltArgList.AddParam("ordenar", "", RadioButtonList1.SelectedValue.ToString)
-
-        'Execute the transformation and generate the output to the Response object's output stream.
-        'xslt.Transform(xmlDoc, xsltArgList, Response.OutputStream)
-
-        Xml1.TransformArgumentList = xsltArgList
-
-        'Xml1.DocumentSource = Server.MapPath(strXml)
-        'Xml1.TransformSource = Server.MapPath("App_Data/XSLTFile.xsl")
-
-    End Sub
 End Class

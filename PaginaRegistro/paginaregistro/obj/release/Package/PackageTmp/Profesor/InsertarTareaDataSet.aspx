@@ -1,7 +1,6 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="InsertarTareaDataSet.aspx.vb" Inherits="PaginaRegistro.InsertarTareaDataSet" %>
 
 <%@ Register src="CabececeraProfesor.ascx" tagname="CabececeraProfesor" tagprefix="uc1" %>
-<%@ Register src="CabeceraAlumno.ascx" tagname="CabeceraAlumno" tagprefix="uc2" %>
 
 <!DOCTYPE html>
 

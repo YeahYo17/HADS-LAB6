@@ -82,3 +82,15 @@ C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visua
 C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visual Studio\HADS-LAB5\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.dll
 C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visual Studio\HADS-LAB5\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.xml
 C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visual Studio\HADS-LAB5\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.pdb
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 6\Proyectos Visual Studio\HADS-LAB6\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.dll
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 6\Proyectos Visual Studio\HADS-LAB6\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.pdb
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 6\Proyectos Visual Studio\HADS-LAB6\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.xml
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 6\Proyectos Visual Studio\HADS-LAB6\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.dll
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 6\Proyectos Visual Studio\HADS-LAB6\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.pdb
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 6\Proyectos Visual Studio\HADS-LAB6\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.xml
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 6\Proyectos Visual Studio\HADS-LAB6\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.vbprojResolveAssemblyReference.cache
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 6\Proyectos Visual Studio\HADS-LAB6\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.Resources.resources
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 6\Proyectos Visual Studio\HADS-LAB6\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.vbproj.GenerateResource.Cache
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 6\Proyectos Visual Studio\HADS-LAB6\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.dll
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 6\Proyectos Visual Studio\HADS-LAB6\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.xml
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 6\Proyectos Visual Studio\HADS-LAB6\PaginaRegistro\PaginaRegistro\obj\Release\PaginaRegistro.pdb

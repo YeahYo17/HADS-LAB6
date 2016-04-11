@@ -39,7 +39,7 @@
             <br />
             <br />
             &nbsp;
-            <asp:HyperLink ID="hyperLinkRegistro" runat="server" NavigateUrl="~/Registro.aspx">Registrate Aqui</asp:HyperLink>
+            <asp:HyperLink ID="hyperLinkRegistro" runat="server" NavigateUrl="~/NewRegistro.aspx">Registrate Aqui</asp:HyperLink>
             <br />
             <br />
             &nbsp;

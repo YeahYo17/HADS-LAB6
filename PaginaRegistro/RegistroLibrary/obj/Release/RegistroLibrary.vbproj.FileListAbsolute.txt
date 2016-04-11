@@ -54,3 +54,11 @@ C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visua
 C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visual Studio\HADS-LAB5\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.dll
 C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visual Studio\HADS-LAB5\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.xml
 C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 5\Proyectos Visual Studio\HADS-LAB5\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.pdb
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 6\Proyectos Visual Studio\HADS-LAB6\PaginaRegistro\RegistroLibrary\bin\Release\RegistroLibrary.dll
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 6\Proyectos Visual Studio\HADS-LAB6\PaginaRegistro\RegistroLibrary\bin\Release\RegistroLibrary.pdb
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 6\Proyectos Visual Studio\HADS-LAB6\PaginaRegistro\RegistroLibrary\bin\Release\RegistroLibrary.xml
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 6\Proyectos Visual Studio\HADS-LAB6\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.Resources.resources
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 6\Proyectos Visual Studio\HADS-LAB6\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.vbproj.GenerateResource.Cache
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 6\Proyectos Visual Studio\HADS-LAB6\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.dll
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 6\Proyectos Visual Studio\HADS-LAB6\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.xml
+C:\Users\Kevin\Dropbox\Uni\4º Año\HADS\Practicas\Laboratorio 6\Proyectos Visual Studio\HADS-LAB6\PaginaRegistro\RegistroLibrary\obj\Release\RegistroLibrary.pdb

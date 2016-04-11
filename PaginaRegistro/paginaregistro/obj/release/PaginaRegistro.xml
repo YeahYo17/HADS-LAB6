@@ -6,7 +6,7 @@ PaginaRegistro
 </name>
 </assembly>
 <members>
-<member name="F:PaginaRegistro.Confirmar.form1">
+<member name="F:PaginaRegistro.CambiarPassword.form1">
 	<summary>
 Control form1.
 </summary>
@@ -14,7 +14,7 @@ Control form1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.Confirmar.CabeceraInicio1">
+</member><member name="F:PaginaRegistro.CambiarPassword.CabeceraInicio1">
 	<summary>
 Control CabeceraInicio1.
 </summary>
@@ -22,177 +22,169 @@ Control CabeceraInicio1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.Confirmar.lblConfirmar">
+</member><member name="F:PaginaRegistro.CambiarPassword.RegularExpressionValidator1">
 	<summary>
-Control lblConfirmar.
+Control RegularExpressionValidator1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.Confirmar.lblError">
+</member><member name="F:PaginaRegistro.CambiarPassword.RequiredFieldValidator1">
+	<summary>
+Control RequiredFieldValidator1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.CambiarPassword.Panel1">
+	<summary>
+Control Panel1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.CambiarPassword.txtEmailCP">
+	<summary>
+Control txtEmailCP.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.CambiarPassword.btnCompEmail">
+	<summary>
+Control btnCompEmail.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.CambiarPassword.lblPreSec">
+	<summary>
+Control lblPreSec.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.CambiarPassword.lblPregunta">
+	<summary>
+Control lblPregunta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.CambiarPassword.lblResSec">
+	<summary>
+Control lblResSec.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.CambiarPassword.txtRespuestaCP">
+	<summary>
+Control txtRespuestaCP.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.CambiarPassword.btnCompRes">
+	<summary>
+Control btnCompRes.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.CambiarPassword.lblPass1">
+	<summary>
+Control lblPass1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.CambiarPassword.txtPass1">
+	<summary>
+Control txtPass1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.CambiarPassword.lblPass2">
+	<summary>
+Control lblPass2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.CambiarPassword.txtPass2">
+	<summary>
+Control txtPass2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.CambiarPassword.btnCambiar">
+	<summary>
+Control btnCambiar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.CambiarPassword.validResSec">
+	<summary>
+Control validResSec.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.CambiarPassword.validPass1">
+	<summary>
+Control validPass1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.CambiarPassword.validPass2">
+	<summary>
+Control validPass2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.CambiarPassword.CompareValidator1">
+	<summary>
+Control CompareValidator1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.CambiarPassword.lblExito">
+	<summary>
+Control lblExito.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.CambiarPassword.lblError">
 	<summary>
 Control lblError.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Confirmar.hlVolver">
-	<summary>
-Control hlVolver.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.TareasAlumno.form1">
-	<summary>
-Control form1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.TareasAlumno.CabeceraAlumno1">
-	<summary>
-Control CabeceraAlumno1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.TareasAlumno.DropDownList1">
-	<summary>
-Control DropDownList1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.TareasAlumno.SqlDataSource1">
-	<summary>
-Control SqlDataSource1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.TareasAlumno.SqlDataSource2">
-	<summary>
-Control SqlDataSource2.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.TareasAlumno.GridView2">
-	<summary>
-Control GridView2.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.TareasAlumno.hlMenu">
-	<summary>
-Control hlMenu.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.TareasAlumno.CheckBoxList1">
-	<summary>
-Control CheckBoxList1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.InsertarTarea.form1">
-	<summary>
-Control form1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.InsertarTarea.CabececeraProfesor1">
-	<summary>
-Control CabececeraProfesor1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.InsertarTarea.txtCod">
-	<summary>
-Control txtCod.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.InsertarTarea.txtDescrip">
-	<summary>
-Control txtDescrip.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.InsertarTarea.listaAsig">
-	<summary>
-Control listaAsig.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.InsertarTarea.SqlDataSource1">
-	<summary>
-Control SqlDataSource1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.InsertarTarea.txtHoras">
-	<summary>
-Control txtHoras.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.InsertarTarea.listaTareas">
-	<summary>
-Control listaTareas.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.InsertarTarea.SqlDataSource2">
-	<summary>
-Control SqlDataSource2.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.InsertarTarea.btnAñadir">
-	<summary>
-Control btnAñadir.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.InsertarTarea.hlVerTareas">
-	<summary>
-Control hlVerTareas.
 </summary>
 	<remarks>
 Campo generado automáticamente.
@@ -209,315 +201,6 @@ Para modificarlo, mueva la declaración del campo del archivo del diseñador al 
 </member><member name="F:PaginaRegistro.Principal.CabeceraInicio1">
 	<summary>
 Control CabeceraInicio1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="P:PaginaRegistro.My.Resources.Resources.ResourceManager">
-	<summary>
-  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
-</summary>
-</member><member name="P:PaginaRegistro.My.Resources.Resources.Culture">
-	<summary>
-  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
-  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
-</summary>
-</member><member name="T:PaginaRegistro.My.Resources.Resources">
-	<summary>
-  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
-</summary>
-</member><member name="F:PaginaRegistro.WebForm1.form1">
-	<summary>
-Control form1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.WebForm1.CabececeraProfesor1">
-	<summary>
-Control CabececeraProfesor1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.WebForm1.listaAsig">
-	<summary>
-Control listaAsig.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.WebForm1.btnInsertar">
-	<summary>
-Control btnInsertar.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.WebForm1.SqlDataSource1">
-	<summary>
-Control SqlDataSource1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.WebForm1.GridView1">
-	<summary>
-Control GridView1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.WebForm1.SqlDataSource3">
-	<summary>
-Control SqlDataSource3.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.WebForm1.hlCerrarSesion">
-	<summary>
-Control hlCerrarSesion.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Alumno.form1">
-	<summary>
-Control form1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Alumno.Panel3">
-	<summary>
-Control Panel3.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Alumno.hlTareasGen">
-	<summary>
-Control hlTareasGen.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Alumno.hlTareasProp">
-	<summary>
-Control hlTareasProp.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Alumno.hlGrupos">
-	<summary>
-Control hlGrupos.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Alumno.Panel2">
-	<summary>
-Control Panel2.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Profesor.form1">
-	<summary>
-Control form1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Profesor.Panel1">
-	<summary>
-Control Panel1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Profesor.hlAsig">
-	<summary>
-Control hlAsig.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Profesor.hlTareas">
-	<summary>
-Control hlTareas.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Profesor.hlGrupos">
-	<summary>
-Control hlGrupos.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Profesor.hlImpXMLDoc">
-	<summary>
-Control hlImpXMLDoc.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Profesor.hlExp">
-	<summary>
-Control hlExp.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Profesor.hlImpDS">
-	<summary>
-Control hlImpDS.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Profesor.Panel2">
-	<summary>
-Control Panel2.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Exportar.form1">
-	<summary>
-Control form1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Exportar.CabececeraProfesor1">
-	<summary>
-Control CabececeraProfesor1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Exportar.Label1">
-	<summary>
-Control Label1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Exportar.DropDownList1">
-	<summary>
-Control DropDownList1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Exportar.Label2">
-	<summary>
-Control Label2.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Exportar.gvTareas">
-	<summary>
-Control gvTareas.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Exportar.hlMenuProf">
-	<summary>
-Control hlMenuProf.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Exportar.btnExportar">
-	<summary>
-Control btnExportar.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Exportar.SqlDataSource1">
-	<summary>
-Control SqlDataSource1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Exportar.SqlDataSource3">
-	<summary>
-Control SqlDataSource3.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Exportar.Panel2">
-	<summary>
-Control Panel2.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Exportar.lblError">
-	<summary>
-Control lblError.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Exportar.Panel3">
-	<summary>
-Control Panel3.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.Exportar.lblExito">
-	<summary>
-Control lblExito.
 </summary>
 	<remarks>
 Campo generado automáticamente.
@@ -755,6 +438,118 @@ Control hlConfirmar.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
+</member><member name="F:PaginaRegistro.Exportar.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.Exportar.CabececeraProfesor1">
+	<summary>
+Control CabececeraProfesor1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.Exportar.Label1">
+	<summary>
+Control Label1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.Exportar.DropDownList1">
+	<summary>
+Control DropDownList1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.Exportar.Label2">
+	<summary>
+Control Label2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.Exportar.gvTareas">
+	<summary>
+Control gvTareas.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.Exportar.hlMenuProf">
+	<summary>
+Control hlMenuProf.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.Exportar.btnExportar">
+	<summary>
+Control btnExportar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.Exportar.SqlDataSource1">
+	<summary>
+Control SqlDataSource1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.Exportar.SqlDataSource3">
+	<summary>
+Control SqlDataSource3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.Exportar.Panel2">
+	<summary>
+Control Panel2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.Exportar.lblError">
+	<summary>
+Control lblError.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.Exportar.Panel3">
+	<summary>
+Control Panel3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.Exportar.lblExito">
+	<summary>
+Control lblExito.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
 </member><member name="F:PaginaRegistro.Inicio.form1">
 	<summary>
 Control form1.
@@ -875,6 +670,254 @@ Control lblError.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
+</member><member name="F:PaginaRegistro.Profesor.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.Profesor.hlMenuAlum">
+	<summary>
+Control hlMenuAlum.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.Profesor.Panel1">
+	<summary>
+Control Panel1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.Profesor.hlAsig">
+	<summary>
+Control hlAsig.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.Profesor.hlTareas">
+	<summary>
+Control hlTareas.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.Profesor.hlGrupos">
+	<summary>
+Control hlGrupos.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.Profesor.hlImpXMLDoc">
+	<summary>
+Control hlImpXMLDoc.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.Profesor.hlExp">
+	<summary>
+Control hlExp.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.Profesor.hlImpDS">
+	<summary>
+Control hlImpDS.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.Profesor.Panel2">
+	<summary>
+Control Panel2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.TareasAlumno.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.TareasAlumno.CabeceraAlumno1">
+	<summary>
+Control CabeceraAlumno1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.TareasAlumno.DropDownList1">
+	<summary>
+Control DropDownList1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.TareasAlumno.SqlDataSource1">
+	<summary>
+Control SqlDataSource1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.TareasAlumno.SqlDataSource2">
+	<summary>
+Control SqlDataSource2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.TareasAlumno.GridView2">
+	<summary>
+Control GridView2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.TareasAlumno.hlMenu">
+	<summary>
+Control hlMenu.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.TareasAlumno.CheckBoxList1">
+	<summary>
+Control CheckBoxList1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.InsertarTareaDataSet.CabececeraProfesor2">
+	<summary>
+Control CabececeraProfesor2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.InsertarTareaDataSet.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.InsertarTareaDataSet.Panel2">
+	<summary>
+Control Panel2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.InsertarTareaDataSet.lblError">
+	<summary>
+Control lblError.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.InsertarTareaDataSet.DropDownList1">
+	<summary>
+Control DropDownList1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.InsertarTareaDataSet.SqlDataSource1">
+	<summary>
+Control SqlDataSource1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.InsertarTareaDataSet.Button1">
+	<summary>
+Control Button1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.InsertarTareaDataSet.Label1">
+	<summary>
+Control Label1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.InsertarTareaDataSet.Panel1">
+	<summary>
+Control Panel1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.InsertarTareaDataSet.Xml1">
+	<summary>
+Control Xml1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.InsertarTareaDataSet.hlMenuProf">
+	<summary>
+Control hlMenuProf.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.InsertarTareaDataSet.Panel3">
+	<summary>
+Control Panel3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.InsertarTareaDataSet.lblExito">
+	<summary>
+Control lblExito.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
 </member><member name="F:PaginaRegistro.InsertarTareaXMLDocument.CabececeraProfesor2">
 	<summary>
 Control CabececeraProfesor2.
@@ -987,7 +1030,45 @@ Control lblExito.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.CambiarPassword.form1">
+</member><member name="P:PaginaRegistro.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:PaginaRegistro.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:PaginaRegistro.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:PaginaRegistro.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:PaginaRegistro.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:PaginaRegistro.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:PaginaRegistro.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:PaginaRegistro.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="T:PaginaRegistro.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="F:PaginaRegistro.Alumno.form1">
 	<summary>
 Control form1.
 </summary>
@@ -995,177 +1076,129 @@ Control form1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.CambiarPassword.CabeceraInicio1">
+</member><member name="F:PaginaRegistro.Alumno.Panel3">
 	<summary>
-Control CabeceraInicio1.
+Control Panel3.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.CambiarPassword.RegularExpressionValidator1">
+</member><member name="F:PaginaRegistro.Alumno.hlTareasGen">
 	<summary>
-Control RegularExpressionValidator1.
+Control hlTareasGen.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.CambiarPassword.RequiredFieldValidator1">
+</member><member name="F:PaginaRegistro.Alumno.hlTareasProp">
 	<summary>
-Control RequiredFieldValidator1.
+Control hlTareasProp.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.CambiarPassword.Panel1">
+</member><member name="F:PaginaRegistro.Alumno.hlGrupos">
 	<summary>
-Control Panel1.
+Control hlGrupos.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.CambiarPassword.txtEmailCP">
+</member><member name="F:PaginaRegistro.Alumno.Panel2">
 	<summary>
-Control txtEmailCP.
+Control Panel2.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.CambiarPassword.btnCompEmail">
+</member><member name="F:PaginaRegistro.InsertarTarea.form1">
 	<summary>
-Control btnCompEmail.
+Control form1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.CambiarPassword.lblPreSec">
+</member><member name="F:PaginaRegistro.InsertarTarea.CabececeraProfesor1">
 	<summary>
-Control lblPreSec.
+Control CabececeraProfesor1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.CambiarPassword.lblPregunta">
+</member><member name="F:PaginaRegistro.InsertarTarea.txtCod">
 	<summary>
-Control lblPregunta.
+Control txtCod.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.CambiarPassword.lblResSec">
+</member><member name="F:PaginaRegistro.InsertarTarea.txtDescrip">
 	<summary>
-Control lblResSec.
+Control txtDescrip.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.CambiarPassword.txtRespuestaCP">
+</member><member name="F:PaginaRegistro.InsertarTarea.listaAsig">
 	<summary>
-Control txtRespuestaCP.
+Control listaAsig.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.CambiarPassword.btnCompRes">
+</member><member name="F:PaginaRegistro.InsertarTarea.SqlDataSource1">
 	<summary>
-Control btnCompRes.
+Control SqlDataSource1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.CambiarPassword.lblPass1">
+</member><member name="F:PaginaRegistro.InsertarTarea.txtHoras">
 	<summary>
-Control lblPass1.
+Control txtHoras.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.CambiarPassword.txtPass1">
+</member><member name="F:PaginaRegistro.InsertarTarea.listaTareas">
 	<summary>
-Control txtPass1.
+Control listaTareas.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.CambiarPassword.lblPass2">
+</member><member name="F:PaginaRegistro.InsertarTarea.SqlDataSource2">
 	<summary>
-Control lblPass2.
+Control SqlDataSource2.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.CambiarPassword.txtPass2">
+</member><member name="F:PaginaRegistro.InsertarTarea.btnAñadir">
 	<summary>
-Control txtPass2.
+Control btnAñadir.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.CambiarPassword.btnCambiar">
+</member><member name="F:PaginaRegistro.InsertarTarea.hlVerTareas">
 	<summary>
-Control btnCambiar.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.CambiarPassword.validResSec">
-	<summary>
-Control validResSec.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.CambiarPassword.validPass1">
-	<summary>
-Control validPass1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.CambiarPassword.validPass2">
-	<summary>
-Control validPass2.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.CambiarPassword.CompareValidator1">
-	<summary>
-Control CompareValidator1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.CambiarPassword.lblExito">
-	<summary>
-Control lblExito.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.CambiarPassword.lblError">
-	<summary>
-Control lblError.
+Control hlVerTareas.
 </summary>
 	<remarks>
 Campo generado automáticamente.
@@ -1275,40 +1308,7 @@ Control hlPagAnt.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="P:PaginaRegistro.My.MyWebExtension.Computer">
-	<summary>
- Returns information about the host computer.
- </summary>
-</member><member name="P:PaginaRegistro.My.MyWebExtension.User">
-	<summary>
- Returns information for the current Web user.
- </summary>
-</member><member name="P:PaginaRegistro.My.MyWebExtension.Request">
-	<summary>
- Returns Request object.
- </summary>
-</member><member name="P:PaginaRegistro.My.MyWebExtension.Response">
-	<summary>
- Returns Response object.
- </summary>
-</member><member name="P:PaginaRegistro.My.MyWebExtension.Log">
-	<summary>
- Returns the Asp log object.
- </summary>
-</member><member name="T:PaginaRegistro.My.MyWebExtension">
-	<summary>
- Module used to define the properties that are available in the My Namespace for Web projects.
- </summary>
-	<remarks></remarks>
-</member><member name="F:PaginaRegistro.InsertarTareaDataSet.CabececeraProfesor2">
-	<summary>
-Control CabececeraProfesor2.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:PaginaRegistro.InsertarTareaDataSet.form1">
+</member><member name="F:PaginaRegistro.Confirmar.form1">
 	<summary>
 Control form1.
 </summary>
@@ -1316,15 +1316,23 @@ Control form1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.InsertarTareaDataSet.Panel2">
+</member><member name="F:PaginaRegistro.Confirmar.CabeceraInicio1">
 	<summary>
-Control Panel2.
+Control CabeceraInicio1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.InsertarTareaDataSet.lblError">
+</member><member name="F:PaginaRegistro.Confirmar.lblConfirmar">
+	<summary>
+Control lblConfirmar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.Confirmar.lblError">
 	<summary>
 Control lblError.
 </summary>
@@ -1332,39 +1340,39 @@ Control lblError.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.InsertarTareaDataSet.DropDownList1">
+</member><member name="F:PaginaRegistro.Confirmar.hlVolver">
 	<summary>
-Control DropDownList1.
+Control hlVolver.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.InsertarTareaDataSet.SqlDataSource1">
+</member><member name="F:PaginaRegistro.NewRegistro.Head1">
 	<summary>
-Control SqlDataSource1.
+Control Head1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.InsertarTareaDataSet.Button1">
+</member><member name="F:PaginaRegistro.NewRegistro.form1">
 	<summary>
-Control Button1.
+Control form1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.InsertarTareaDataSet.Label1">
+</member><member name="F:PaginaRegistro.NewRegistro.CabeceraInicio1">
 	<summary>
-Control Label1.
+Control CabeceraInicio1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.InsertarTareaDataSet.Panel1">
+</member><member name="F:PaginaRegistro.NewRegistro.Panel1">
 	<summary>
 Control Panel1.
 </summary>
@@ -1372,33 +1380,265 @@ Control Panel1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.InsertarTareaDataSet.Xml1">
+</member><member name="F:PaginaRegistro.NewRegistro.txtEmailReg">
 	<summary>
-Control Xml1.
+Control txtEmailReg.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.InsertarTareaDataSet.hlMenuProf">
+</member><member name="F:PaginaRegistro.NewRegistro.RequiredFieldValidator1">
 	<summary>
-Control hlMenuProf.
+Control RequiredFieldValidator1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.InsertarTareaDataSet.Panel3">
+</member><member name="F:PaginaRegistro.NewRegistro.validacionEmail">
 	<summary>
-Control Panel3.
+Control validacionEmail.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.InsertarTareaDataSet.lblExito">
+</member><member name="F:PaginaRegistro.NewRegistro.txtNombre">
 	<summary>
-Control lblExito.
+Control txtNombre.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.NewRegistro.RequiredFieldValidator2">
+	<summary>
+Control RequiredFieldValidator2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.NewRegistro.txtDni">
+	<summary>
+Control txtDni.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.NewRegistro.RequiredFieldValidator5">
+	<summary>
+Control RequiredFieldValidator5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.NewRegistro.RegularExpressionValidator1">
+	<summary>
+Control RegularExpressionValidator1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.NewRegistro.txtPassReg">
+	<summary>
+Control txtPassReg.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.NewRegistro.RequiredFieldValidator6">
+	<summary>
+Control RequiredFieldValidator6.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.NewRegistro.txtRepPass">
+	<summary>
+Control txtRepPass.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.NewRegistro.RequiredFieldValidator7">
+	<summary>
+Control RequiredFieldValidator7.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.NewRegistro.CompareValidator1">
+	<summary>
+Control CompareValidator1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.NewRegistro.txtPregunta">
+	<summary>
+Control txtPregunta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.NewRegistro.RequiredFieldValidator8">
+	<summary>
+Control RequiredFieldValidator8.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.NewRegistro.txtRespuesta">
+	<summary>
+Control txtRespuesta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.NewRegistro.RequiredFieldValidator9">
+	<summary>
+Control RequiredFieldValidator9.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.NewRegistro.txtGrupo">
+	<summary>
+Control txtGrupo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.NewRegistro.RequiredFieldValidator10">
+	<summary>
+Control RequiredFieldValidator10.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.NewRegistro.rdbTipo">
+	<summary>
+Control rdbTipo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.NewRegistro.btnEnviar">
+	<summary>
+Control btnEnviar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.NewRegistro.resumenValidacion">
+	<summary>
+Control resumenValidacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.NewRegistro.lblError">
+	<summary>
+Control lblError.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.NewRegistro.lblEnlace">
+	<summary>
+Control lblEnlace.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.NewRegistro.hlConfirmar">
+	<summary>
+Control hlConfirmar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.WebForm1.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.WebForm1.CabececeraProfesor1">
+	<summary>
+Control CabececeraProfesor1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.WebForm1.listaAsig">
+	<summary>
+Control listaAsig.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.WebForm1.btnInsertar">
+	<summary>
+Control btnInsertar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.WebForm1.SqlDataSource1">
+	<summary>
+Control SqlDataSource1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.WebForm1.GridView1">
+	<summary>
+Control GridView1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.WebForm1.SqlDataSource3">
+	<summary>
+Control SqlDataSource3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.WebForm1.hlCerrarSesion">
+	<summary>
+Control hlCerrarSesion.
 </summary>
 	<remarks>
 Campo generado automáticamente.

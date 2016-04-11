@@ -72,7 +72,7 @@
         </asp:Panel>
         <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:HyperLink ID="hlPagAnt" runat="server" NavigateUrl="~/TareasAlumno.aspx" style="z-index: 1; left: 208px; top: 292px; position: absolute">Pagina Anterior</asp:HyperLink>
+        <asp:HyperLink ID="hlPagAnt" runat="server" NavigateUrl="~/Alumno/TareasAlumno.aspx" style="z-index: 1; left: 208px; top: 292px; position: absolute; right: 739px;">Pagina Anterior</asp:HyperLink>
     
     </div>
     </form>
